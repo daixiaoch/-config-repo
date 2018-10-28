@@ -5,4 +5,4 @@ spring:
     password: root123
     url: jdbc:mysql://139.199.90.88:3306/spring_cloud_db?characterEncoding=utf-8&useSSL=false
 env:
-  test1
+  dev
